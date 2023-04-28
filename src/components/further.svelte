@@ -30,7 +30,7 @@
 
 		<h1><u>Yhteistyökumppanit</u></h1>
 		<p class="lead">
-			Tulisitko sinäkin mukaan meidän toimintaan? <a href="mailto:team@hacksaimaa.com" class="main-orange"
+			Tulisitko sinäkin mukaan meidän toimintaan? <a href="mailto:hei@tuotantoserveri.fi" class="main-orange"
 				>Laita meille sähköpostia →</a
 			>
 		</p>
