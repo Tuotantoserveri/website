@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+:root {
+    --main-orange: #FF9943;
+    --light-orange: #FFE484;
+    --black: #000000;
+}
+
+
+* {
+    font-family: 'Unbounded', sans-serif;
+    letter-spacing: -0.035em;
+}
+
+body {
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.main-orange {
+    color: var(--main-orange);
+}
+
+.light-orange {
+    color: var(--light-orange);
+}
+
+.black {
+    color: var(--black);
+}
+
+.bg-main-orange {
+    background-color: var(--main-orange);
+}
+
+.bg-light-orange {
+    background-color: var(--light-orange);
+}
+
+.bg-black {
+    background-color: var(--black);
+}
+
+.mono {
+    font-family: 'Source Code Pro', 'Unbounded', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
