@@ -41,7 +41,7 @@
     <div>
         <img class="img-container" src="/wide2.png">
         <p>hei@tuotantoserveri.fi</p>
-        <p>etunimi.sukunimi@tuotantoserveri.fi</p>
+        <p>etunimi@tuotantoserveri.fi</p>
     </div>
     
         
