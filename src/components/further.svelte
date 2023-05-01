@@ -1,36 +1,42 @@
 <main id="about">
 	<div class="wrapper">
-		<h1><u>Usein kysyttyä</u></h1>
+		<h2><u>Meidän tiimi</u></h2>
 		<p class="lead">
-			Onko sinulla mielessä jokin muu asia? <a href="mailto:hei@tuotantoserveri.fi" class="main-orange"
-				>Laita meille sähköpostia →</a
+			Kaikki meidät saa kiinni yhteisestä sähköpostista, tai sitten jokaisen omasta: <a href="mailto:hei@tuotantoserveri.fi" class="main-orange"
+			>hei@tuotantoserveri.fi</a
 			>
 		</p>
 
 		<div class="grid">
 			<div class="box">
-				<h3>Tuotantoserveri?</h3>
+				<h3>Henkilö 1</h3>
 				<p class="answer">
-					Surkee läppä (tietäjät tietää)
+					kdgjs
 				</p>
 			</div>
 			<div class="box">
-				<h3>Kuka ihme lähti tekee tätä?</h3>
+				<h3>Henkilö 2</h3>
 				<p class="answer">
-					Arvaa (tai selvitä)
+					jefdkf
 				</p>
 			</div>
 			<div class="box">
-				<h3>Pitääkö olla huolissaan?</h3>
+				<h3>Henkilö 3</h3>
 				<p class="answer">
-					Tuskinpa (toivottavasti)
+					juuuuu
+				</p>
+			</div>
+			<div class="box">
+				<h3>Henkilö 4</h3>
+				<p class="answer">
+					kukkuu
 				</p>
 			</div>
 		</div>
 
-		<h1><u>Yhteistyökumppanit</u></h1>
+		<h2><u>Asiakkaat</u></h2>
 		<p class="lead">
-			Tulisitko sinäkin mukaan meidän toimintaan? <a href="mailto:hei@tuotantoserveri.fi" class="main-orange"
+			tähän joku nerokas teksti <a href="mailto:hei@tuotantoserveri.fi" class="main-orange"
 				>Laita meille sähköpostia →</a
 			>
 		</p>
@@ -75,7 +81,7 @@
 
 	.grid {
 		display: grid;
-		grid-template-columns: 30vw 30vw 30vw;
+		grid-template-columns: 22.5vw 22.5vw 22.5vw 22.5vw;
 		grid-template-rows: auto;
 		gap: 24px 24px;
 		margin-bottom: 72px;
@@ -88,20 +94,13 @@
 		gap: 8px;
 		border: 2px solid var(--main-orange);
 		padding: 1rem;
+		text-align: center;
 	}
 
 	h2 {
 		font-size: 2.5rem;
 		margin: 0;
 		margin-block-end: 0em;
-	}
-
-	.m-hidden {
-		display: flex;
-	}
-
-	.m-shown {
-		display: none !important;
 	}
 
 	h3 {

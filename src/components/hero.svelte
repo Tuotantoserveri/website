@@ -1,7 +1,7 @@
 <main>
-    <h1>Tuotantoserveri on<br>
-        <span class="main-orange">erittäin laadukkaita palveluita</span><br>
-        tarjoava palveluntarjoaja
+    <h1>Tuotantoserveri:<br>
+        IT-palveluita
+        <span class="main-orange">slogan tähän</span>
     </h1>
 </main>
 
@@ -10,7 +10,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height:100vh;
+        height:75vh;
         background: url('/bannerdimmed.png'), black;
         background-size: cover;
         color: white;

@@ -4,7 +4,7 @@
 
 <div class="top-bar">
     <div class="concluded">
-        <p>Homma kesken, my bad</p>
+        <p>Tämä sivusto on keskeneräinen. Jos sinulla on kysymyksiä, ota rohkeasti yhteyttä!</p>
     </div>
     <nav>
         <img class="img-container" src="/wide1.png">
@@ -70,11 +70,6 @@
         line-height:5vmin; 
     }
     
-    .space {
-        display: inline-block;
-        width: 0.5rem;
-        height: 1rem;
-    }
 
     .button {
         display: inline-flex;

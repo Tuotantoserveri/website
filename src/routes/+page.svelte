@@ -51,7 +51,7 @@
 <style>
     footer {
         display: flex;
-        background-color: #000000;
+        background-color: #FFE484;
         justify-content: flex-start;
         align-items: flex-end;
         color: #ffffff;
